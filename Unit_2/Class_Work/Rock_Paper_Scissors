@@ -1,0 +1,5 @@
+#import random and make the game
+
+#The computer will play based on a random number from 1 to 3. 
+#You’ll then get input from the user where 1 is rock, 2 is paper, and 3 is scissors.
+#Use some conditional statements to then print out who the winner is
